@@ -1775,3 +1775,4 @@ abilFolder["Ultimate Essence"].Description.Value = "The Ultimate Komaki Ability.
 sendNotification("Badge and ability names loaded")
 task.wait(0.5)
 sendNotification("Mod Loaded")
+
